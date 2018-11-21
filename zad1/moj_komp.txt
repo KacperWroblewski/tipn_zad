@@ -1,0 +1,4 @@
+﻿pojemność dysku: 456 GB
+ilość pamięci RAM: 4.00 GB
+rodzaj i prędkość procesora: Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz 1.70 GHz
+system jest 64-bitowy
