@@ -7,7 +7,7 @@ Określany też przez innych, jako poeta przeobrażeń oraz bard słowiański.
 
 ## Twórczość
 
-###Adam Mickiewicz pisał między innymi:
+### Adam Mickiewicz pisał między innymi:
 1. Ody
 2. Hymny
 4. Ballady
